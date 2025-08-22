@@ -1,3 +1,4 @@
+#hola 
 import cv2
 
 img =cv2.imread('cartas.jpg', 0)
