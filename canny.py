@@ -1,5 +1,6 @@
 #hola 
 import cv2
+#hola
 
 img =cv2.imread('cartas.jpg', 0)
 bordeCanny = cv2.canny(img, 100, 200)
